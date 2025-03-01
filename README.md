@@ -73,11 +73,6 @@ export default App
 
 ```
 
-git config --global user.email
-
-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
-
-
 
 
 # Admin-Panel-react
